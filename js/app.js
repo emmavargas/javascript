@@ -1,13 +1,1 @@
-var numero1 = 5;
-var numero2 = 8;
-
-if(numero1 < numero2){
-  alert("numero1 no es mayor que numero2")
-}
-if(numero2 - numero1){
-  alert("numero2 es positivo")
-}
-if(numero1 - numero2){
-  alert("numero1 es negativo o distinto a cero")
-}
-if 
+var letras = ["T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E", "T"];
