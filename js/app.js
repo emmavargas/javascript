@@ -1,4 +1,13 @@
-Var mostrarMensaje = true;
-if(mostrarMensaje) {
-  alert("Hola mundo");
-};
+var numero1 = 5;
+var numero2 = 8;
+
+if(numero1 < numero2){
+  alert("numero1 no es mayor que numero2")
+}
+if(numero2 - numero1){
+  alert("numero2 es positivo")
+}
+if(numero1 - numero2){
+  alert("numero1 es negativo o distinto a cero")
+}
+if 
